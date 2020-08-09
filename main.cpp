@@ -1,3 +1,6 @@
+//el usuario ingresara los datos 
+//escogera las veces que desea almacenar los datos y volverlos a ver 
+
 #include <iostream>
 
 #include <fstream>
